@@ -1,6 +1,3 @@
-# TEMPLATE-base-repo
+# PIT-UN Syllabys Analysis
 
-# Add Users
-To add yourself to the repository, open a Pull Request modifying `COLLABORATORS`, entering your GitHub username in a newline.
-
-All Pull Requests must follow the Pull Request Template, with a title formatted like such `[Project Name]: <Descriptive Title>`
+To create text-based categorization model for classifying  courses that fall within the public interest technology domain based on course titles, course descriptions, and/ or syllabi content.
